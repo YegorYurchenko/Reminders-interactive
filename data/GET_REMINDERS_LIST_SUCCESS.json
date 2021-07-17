@@ -1,0 +1,58 @@
+{
+    "success": true,
+    "status": "GET_REMINDERS_LIST_SUCCESS",
+    "data": [
+        {
+            "id": "remind_1",
+            "title": "Meet with Joe",
+            "date": {
+                "year": "2024",
+                "month": "07",
+                "day": "28"
+            },
+            "time": {
+                "hour": "12",
+                "minute": "00"
+            }
+        },
+        {
+            "id": "remind_2",
+            "title": "Buy grosserys",
+            "date": {
+                "year": "2024",
+                "month": "09",
+                "day": "05"
+            },
+            "time": {
+                "hour": "15",
+                "minute": "25"
+            }
+        },
+        {
+            "id": "remind_3",
+            "title": "Take swimming lesson",
+            "date": {
+                "year": "2025",
+                "month": "11",
+                "day": "23"
+            },
+            "time": {
+                "hour": "09",
+                "minute": "15"
+            }
+        },
+        {
+            "id": "remind_4",
+            "title": "Visit mom",
+            "date": {
+                "year": "2026",
+                "month": "02",
+                "day": "15"
+            },
+            "time": {
+                "hour": "21",
+                "minute": "40"
+            }
+        }
+    ]
+}
